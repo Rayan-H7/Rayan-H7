@@ -2,7 +2,7 @@
 - 👀 I’m interested in being a software developer.
 - 🌱 I’m currently learning C#, Python, etc.
 - 💞️ I’m looking to collaborate on projects based on app development.
-- 📫 How to reach me at rayanthehacker6@gmail.com.
+- 📫 How to reach me at rayanthehacker6@gmail.com, or on Discord at ShadowWarrior#2667.
 
 <!---
 ShadowHacker-07/ShadowHacker-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
