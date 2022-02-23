@@ -11,8 +11,6 @@ You can click the Preview link to take a look at your changes.
 ![image](https://user-images.githubusercontent.com/98430041/155293605-b60c53a3-4858-4632-ae21-ae7aee00768d.png)
 ![image](https://user-images.githubusercontent.com/98430041/155293621-c2618516-1f3e-4853-8719-38bce718c4fd.png)
 ![image](https://user-images.githubusercontent.com/98430041/155293630-3659bce4-0e6f-4291-a2fa-ea5f2e984837.png)
-![image](https://user-images.githubusercontent.com/98430041/155294424-d91c7e17-1632-4b86-9bdd-603512b0dbba.png) 
-
 <hr>
 Find me on:
 ![image](https://user-images.githubusercontent.com/98430041/155294424-d91c7e17-1632-4b86-9bdd-603512b0dbba.png) 
